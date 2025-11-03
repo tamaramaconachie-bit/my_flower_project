@@ -1,16 +1,8 @@
 # my_flower_project
-Overview of my project:
-This project is a breathing tool that individuals can follow that can helkp them rest their breathing pattern. This data visualtion is a coding prototype coded in Javascrip on processing of a ywllow flower that expands and contracts in time with the 4-7-8 breathing technique. The prototype was developed to help anyone in need of resetting their breath in times of anxiety, stress or even in seek of calmess. The projected was created to bring tranquility, help with anxiety, depression and even sleep. The breathing pattern (4-7-8) is a popular technique used by many psycologists and doctors to help manage an increased heart rate. 
+This project is a data visualization breathing tool designed to help individuals reset their breathing pattern and achieve a state of relaxation. The tool is built using JavaScript and Processing, featuring a calming yellow flower animation that expands and contracts in sync with the 4-7-8 breathing technique. This prototype serves as a guided experience to promote tranquility and alleviate stress, anxiety, and even sleep disturbances.
 
-When developing my protype I used 5 main sources:
-Guillermet, A. (2020). Vera Molnar’s computer paintings. Representations, 149, 1-30. https://www.jstor.org/stable/26908911
-Reas, C., & Fry, B. (2015). Make: Getting started with Processing (2nd ed.). Maker Media.
-Runberg, D. (2015). The SparkFun guide to Processing. SparkFun Electronics.
-Bunn, T. (2017). Learn Python visually: Creative coding with Processing.py. No Starch Press.
-Berry, D. (2011). What is code? In The philosophy of software: Code and mediation in the digital age (pp. 29-63). Palgrave Macmillan UK.
+The 4-7-8 breathing technique is a widely recognized method often recommended by psychologists and healthcare professionals to help manage elevated heart rates and reduce anxiety. The pattern involves inhaling for 4 seconds, holding the breath for 7 seconds, and exhaling for 8 seconds. This simple yet effective breathing exercise has been shown to activate the parasympathetic nervous system, helping individuals calm their bodies and minds.
 
-Alongside youtube videos such as 
-https://www.youtube.com/watch?v=DwfMg4ISkvo
-https://www.youtube.com/watch?v=xkyurjB8NF4
+This breathing tool was developed to provide users with a visual and interactive way to reset their breath, whether they're dealing with anxiety, stress, or simply seeking a moment of calm. By using the soothing motion of the flower in conjunction with the 4-7-8 technique, users are guided through the breathing process, making it easier to achieve relaxation, lower their heart rate, and improve mental well-being.
 
-Over the course, I developed 3 prototypes and using peer feedback decided the final protype (prototype 3) was the most effective in terms of helping pindividuals find solace and tranquility. In the other folders I included all 3 prototypes for you to check out.
+The goal of this project is to offer a free and accessible tool for mental wellness, helping individuals cope with daily stressors, manage anxiety, and improve their sleep quality by incorporating a proven relaxation technique into their routine.
