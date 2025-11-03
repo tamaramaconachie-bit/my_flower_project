@@ -1,4 +1,4 @@
-# my_flower_project
+#BreathOn
 This project is a data visualization breathing tool designed to help individuals reset their breathing pattern and achieve a state of relaxation. The tool is built using JavaScript and Processing, featuring a calming yellow flower animation that expands and contracts in sync with the 4-7-8 breathing technique. This prototype serves as a guided experience to promote tranquility and alleviate stress, anxiety, and even sleep disturbances.
 
 The 4-7-8 breathing technique is a widely recognized method often recommended by psychologists and healthcare professionals to help manage elevated heart rates and reduce anxiety. The pattern involves inhaling for 4 seconds, holding the breath for 7 seconds, and exhaling for 8 seconds. This simple yet effective breathing exercise has been shown to activate the parasympathetic nervous system, helping individuals calm their bodies and minds.
